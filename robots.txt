@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-b5f111c7be.minzhongrc.cn/sitemap.xml

@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "36b66933d63cda3b8aa90285",
+  "owner": "ctukukdef",
+  "repo": "page-cd07a0ab32cf6e4248bcd268",
+  "title": "TIGR",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cd07a0ab32cf6e4248bcd268",
+      "a": "TIGR",
+      "b": "",
+      "entity": "TIGR",
+      "brand": "TIGR",
+      "separator": "",
+      "path": "index.html",
+      "hash": "59577f652d5293105efca6b710063f23252e3f838588601c1452a4d631a9b4b9",
+      "content": {
+        "keyword1": "TIGR",
+        "keyword2": "",
+        "primary_entity": "TIGR",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "TIGR 把办理顺序写成清单：先核名称，再对三档价格与额度，最后才谈客户端。没有核验过的下载地址不写进页面。",
+          "AI_DESCRIPTION": "TIGR 把办理顺序写成清单：先核名称，再对三档价格与额度，最后才谈客户端。没有核验过的下载地址不写进页面。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml{}\nbody{background:#F7F0E4;color:#3A1C22;font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif;line-height:1.65;font-size:16px}\nmain{max-width:860px;margin:0;padding:1.25rem 1.1rem 4rem 1.1rem}\na{color:#7A2331;text-decoration:underline;text-underline-offset:3px}\na:hover{color:#4A121C}\n.kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:#7A2331;margin-bottom:.4rem}\nh1{font-size:clamp(2.4rem,9vw,4.4rem);line-height:1.05;letter-spacing:.08em;color:#7A2331;font-weight:700;text-align:left;margin:.15rem 0 .8rem}\nh2{font-size:1.35rem;color:#4A121C;margin:0 0 .8rem;line-height:1.35;text-align:left;border-bottom:1px dashed #7A2331;padding-bottom:.45rem}\nh3{font-size:1.08rem;color:#7A2331;margin:0 0 .5rem;text-align:left}\np{margin:0 0 .7rem}\nul,ol{margin:0 0 .8rem 1.2rem}\nli{margin:0 0 .35rem}\n.timeline{border-left:3px solid #7A2331;margin:1.2rem 0 0 0.55rem;padding:0 0 0 1.6rem}\n.t-item{position:relative;margin:0 0 2.1rem}\n.t-item:last-child{margin-bottom:0}\n.dot{position:absolute;left:-2.15rem;top:.35rem;width:.72rem;height:.72rem;background:#7A2331;border:3px solid #F7F0E4;box-shadow:0 0 0 2px #7A2331}\n.num{display:block;font-size:12px;letter-spacing:.22em;color:#7A2331;margin-bottom:.25rem}\n.jump{margin-top:.85rem;font-size:.95rem}\n.jump a{margin-right:.7rem;white-space:nowrap}\n.block{margin:2.4rem 0 0}\n.ticket{border:2px dashed #7A2331;background:#FFFBF3;padding:1.1rem 1.1rem 1.15rem;margin:0 0 1rem;display:flex;gap:0}\n.stub{width:2.1rem;flex:0 0 2.1rem;border-right:2px dashed #7A2331;margin-right:1rem;padding-right:.4rem;display:flex;align-items:center;justify-content:center}\n.stub span{writing-mode:vertical-rl;letter-spacing:.35em;font-size:11px;color:#7A2331}\n.ticket-body{flex:1;min-width:0}\n.serial{font-size:12px;letter-spacing:.16em;color:#7A2331;margin-bottom:.35rem}\n.price{font-size:1.35rem;color:#4A121C;margin:.2rem 0 .15rem}\n.subprice{font-size:.92rem;margin-bottom:.55rem}\n.steps{display:flex;flex-direction:column;gap:1rem;margin-top:1rem}\n.step{max-width:38rem}\n.step-a{margin-left:0}\n.step-b{margin-left:2.2rem}\n.step-c{margin-left:4.4rem}\n.badge{display:inline-block;border:1px dashed #7A2331;padding:.05rem .45rem;font-size:12px;letter-spacing:.08em;margin-left:.35rem;vertical-align:middle}\n.faq-group{margin:1.1rem 0 1.6rem}\n.qa{border:2px dashed #7A2331;background:#FFFBF3;padding:.9rem 1rem;margin:0 0 .7rem}\n.qa h3{font-size:1rem}\n.muted{font-size:.92rem;color:#5A3338}\n.foot-jumps{margin-top:2.2rem;padding-top:1rem;border-top:2px dashed #7A2331;font-size:.95rem}\n@media (max-width:720px){\nmain{padding:1rem .85rem 3.2rem}\n.timeline{margin-left:.35rem;padding-left:1.35rem}\n.dot{left:-1.88rem}\n.step-a,.step-b,.step-c{margin-left:0;max-width:none}\n.ticket{flex-direction:column}\n.stub{width:auto;flex:none;border-right:0;border-bottom:2px dashed #7A2331;margin:0 0 .7rem;padding:.15rem 0 .55rem;justify-content:flex-start}\n.stub span{writing-mode:horizontal-tb;letter-spacing:.28em}\n}\n</style><main>\n<section id=\"top\">\n<div class=\"timeline\">\n<div class=\"t-item\">\n<span class=\"dot\"></span>\n<span class=\"num\">01 / 名称</span>\n<p class=\"kicker\">清单起笔</p>\n<h1>TIGR</h1>\n<p>先核对四个字母：T I G R。后面所有价格、额度、设备数都只对这一名称有效。</p>\n<p>本页按办理顺序写，不写口号。你要做的事会逐条列出。</p>\n<p class=\"jump\"><a href=\"#use\">使用清单</a><a href=\"#plans\">档位台阶</a><a href=\"#clients\">客户端说明</a><a href=\"#faq\">按主题查问题</a></p>\n</div>\n<div class=\"t-item\">\n<span class=\"dot\"></span>\n<span class=\"num\">02 / 价格入账</span>\n<h2>三档月价与年价先抄下来</h2>\n<p>基础版 ¥15/月，年付 ¥150。旗舰版 ¥35/月，年付 ¥350。团队版 ¥85/月，年付 ¥850。</p>\n<p>抄完再往下看额度。不要先找安装入口。</p>\n</div>\n<div class=\"t-item\">\n<span class=\"dot\"></span>\n<span class=\"num\">03 / 额度对照</span>\n<p>流量按自然月记账：100GB、300GB、1000GB 三档。设备同时在线数：3、5、20。</p>\n<p>数字以档位票据为准。票据以外的速度、线路、评价，本页不写。</p>\n</div>\n<div class=\"t-item\">\n<span class=\"dot\"></span>\n<span class=\"num\">04 / 软件先停</span>\n<p>没有已核验的下载地址。搜到的安装包一律不当作 TIGR 附件。</p>\n<p>跳到客户端一节看完整限制清单。</p>\n</div>\n<div class=\"t-item\">\n<span class=\"dot\"></span>\n<span class=\"num\">05 / 问题分组放</span>\n<p>价格、额度、来源三类问题分开放。对不上号的，不要自行补规则。</p>\n</div>\n</div>\n</section>\n\n<section id=\"use\" class=\"block\">\n<h2>使用前先把这张清单走完</h2>\n<p>按顺序勾。跳步容易把年付和月付算混，或把设备名额用满。</p>\n<ol>\n<li>回到页首确认品牌名仍是 TIGR。</li>\n<li>打开「档位台阶」，只看你准备买的那一张票据。</li>\n<li>把月价乘 12，和年价并排写。基础版 180 对 150；旗舰版 420 对 350；团队版 1020 对 850。</li>\n<li>写下本月要用的大概流量，对照 100 / 300 / 1000GB，只选盖得住的一档。</li>\n<li>数清要同时挂着的设备。3、5、20 是上限，不是建议值。</li>\n<li>客户端一项：本页无链接。账户通知里没有说明，就不要装任何程序。</li>\n<li>仍有疑问，只查下方分组问答，不要把未写明的条款自行补上。</li>\n</ol>\n<p class=\"muted\">本页不提供下单入口，也不写退款、日志、兼容名单。</p>\n<p class=\"jump\"><a href=\"#plans\">继续对台阶</a><a href=\"#top\">回时间线</a></p>\n</section>\n\n<section id=\"plans\" class=\"block\">\n<h2>三档订阅，按台阶往上对</h2>\n<p>下面三张是虚线票据。位置越往右、越靠下，额度与设备数越高。先看基础版，需要再上一级。</p>\n<div class=\"steps\">\n<article class=\"ticket step step-a\">\n<div class=\"stub\"><span>TIGR 001</span></div>\n<div class=\"ticket-body\">\n<p class=\"serial\">NO. A-15 · 第一阶</p>\n<h3>基础版</h3>\n<p class=\"price\">¥15 / 月</p>\n<p class=\"subprice\">按年付：¥150 / 年</p>\n<ul>\n<li>每月流量额度：100GB</li>\n<li>同时在线设备：3 台</li>\n<li>适合先把月用量估准的人</li>\n<li>不包含未写明的附加通道</li>\n</ul>\n</div>\n</article>\n<article class=\"ticket step step-b\">\n<div class=\"stub\"><span>TIGR 002</span></div>\n<div class=\"ticket-body\">\n<p class=\"serial\">NO. B-35 · 第二阶 <span class=\"badge\">建议先对这一档</span></p>\n<h3>旗舰版</h3>\n<p class=\"price\">¥35 / 月</p>\n<p class=\"subprice\">按年付：¥350 / 年</p>\n<ul>\n<li>每月流量额度：300GB</li>\n<li>同时在线设备：5 台</li>\n<li>档位表列有优先工单一项；时限未提供，本页不编造</li>\n<li>月价是基础版的两倍多，额度是三倍，用乘法核对后再决定</li>\n</ul>\n</div>\n</article>\n<article class=\"ticket step step-c\">\n<div class=\"stub\"><span>TIGR 003</span></div>\n<div class=\"ticket-body\">\n<p class=\"serial\">NO. C-85 · 第三阶</p>\n<h3>团队版</h3>\n<p class=\"price\">¥85 / 月</p>\n<p class=\"subprice\">按年付：¥850 / 年</p>\n<ul>\n<li>每月流量额度：1000GB</li>\n<li>同时在线设备：20 台</li>\n<li>档位表写有路由说明与对接人两项；联系方式以实际分配为准</li>\n<li>人多、设备多再上这一阶，单人不必直接跳到这里</li>\n</ul>\n</div>\n</article>\n</div>\n<p class=\"muted\">票据上的数字止于价格、年付、流量额度、设备数。其余未列项目，视为本页未确认。</p>\n<p class=\"jump\"><a href=\"#clients\">看客户端限制</a><a href=\"#use\">回使用清单</a></p>\n</section>\n\n<section id=\"clients\" class=\"block\">\n<h2>客户端：本页不提供安装包</h2>\n<p>可核验的下载地址目前没有。因此不写按钮、不写镜像、不写第三方商店名。</p>\n<div class=\"ticket\">\n<div class=\"stub\"><span>NOTE</span></div>\n<div class=\"ticket-body\">\n<p class=\"serial\">NO. D-00 · 来源限制</p>\n<h3>办理软件前的限制清单</h3>\n<ul>\n<li>本页所有链接若不是页内锚点，一律不要当作下载入口。</li>\n<li>搜索结果里的同名安装包，不能凭文件名判断来源。</li>\n<li>以账户通知、邮件或你既有说明里的路径为准；没有说明就停。</li>\n<li>系统名单、版本号、更新日志均未提供，这里不补。</li>\n<li>需要地址时把该栏留空，等待可核对的来源，而不是用猜测填上。</li>\n</ul>\n<p class=\"muted\">无地址可用时，对应位置保持空白。不伪造交易链接。</p>\n</div>\n</div>\n<p class=\"jump\"><a href=\"#faq\">到分组问答</a><a href=\"#plans\">回档位台阶</a></p>\n</section>\n\n<section id=\"faq\" class=\"block\">\n<h2>常见问题，按主题分开</h2>\n<p>先选主题，再读该组问答。跨组的内容不要混抄。</p>\n\n<div class=\"faq-group\">\n<h3>主题一：价格与结算</h3>\n<article class=\"qa\">\n<h3>三档现在各是多少钱？</h3>\n<p>按清单抄：</p>\n<ul>\n<li>基础版：¥15/月，年付 ¥150</li>\n<li>旗舰版：¥35/月，年付 ¥350</li>\n<li>团队版：¥85/月，年付 ¥850</li>\n</ul>\n<p>先定月付还是年付，再看额度。价格以外的优惠未提供。</p>\n</article>\n<article class=\"qa\">\n<h3>年付和月付怎么对账？</h3>\n<p>用月价乘 12：</p>\n<ul>\n<li>基础版 12×15=180，年付写的是 150</li>\n<li>旗舰版 12×35=420，年付写的是 350</li>\n<li>团队版 12×85=1020，年付写的是 850</li>\n</ul>\n<p>差额只说明两种标价不同。扣费日、发票、能否改档，本页没有材料。</p>\n</article>\n</div>\n\n<div class=\"faq-group\">\n<h3>主题二：额度与设备</h3>\n<article class=\"qa\">\n<h3>100GB、300GB、1000GB 分别怎么理解？</h3>\n<p>按自然月额度记账，对应基础、旗舰、团队三阶。</p>\n<ul>\n<li>先估计自己一个月会用掉多少</li>\n<li>只选盖得住的那一档</li>\n<li>用尽之后如何处理，没有可引用的书面规则，以账户内提示为准</li>\n</ul>\n</article>\n<article class=\"qa\">\n<h3>3 台、5 台、20 台同时在线指什么？</h3>\n<p>指同一时间挂着的设备上限。</p>\n<ul>\n<li>基础版最多 3</li>\n<li>旗舰版最多 5</li>\n<li>团队版最多 20</li>\n</ul>\n<p>换机前先看已占用名额。超出上限的处理方式未提供。</p>\n</article>\n<article class=\"qa\">\n<h3>人少能不能直接买团队版？</h3>\n<p>可以按价格买，但台阶是按额度递进排的。</p>\n<ul>\n<li>单人先对基础版的 100GB 与 3 台</li>\n<li>不够再对旗舰版</li>\n<li>设备和流量都明显超过 5 台、300GB，再看团队版</li>\n</ul>\n</article>\n</div>\n\n<div class=\"faq-group\">\n<h3>主题三：来源与页面范围</h3>\n<article class=\"qa\">\n<h3>官方客户端在哪里下载？</h3>\n<p>没有已核验地址，所以这里不放链接。</p>\n<ul>\n<li>不要在本页找安装按钮</li>\n<li>不要把搜索到的同名文件当成附件</li>\n<li>有账户通知再按其路径核验</li>\n</ul>\n</article>\n<article class=\"qa\">\n<h3>本页能当成合同或售后说明吗？</h3>\n<p>不能。</p>\n<ul>\n<li>本页只整理名称、三档标价、额度与设备数</li>\n<li>身份证明、性能、评价、日志、退款均未提供，故不写</li>\n<li>未出现在票据上的承诺，视为未确认</li>\n</ul>\n</article>\n</div>\n<p class=\"jump\"><a href=\"#top\">回到时间线</a><a href=\"#plans\">回到档位</a><a href=\"#use\">回到使用清单</a></p>\n</section>\n\n<p class=\"foot-jumps\">页内跳转：<a href=\"#top\">时间线</a> · <a href=\"#use\">使用清单</a> · <a href=\"#plans\">档位台阶</a> · <a href=\"#clients\">客户端</a> · <a href=\"#faq\">常见问题</a></p>\n</main>",
+          "hash": "42fb24dca1ee0327334794447f862580db82fe5294eb35e6951eaf34699dc41f",
+          "seo": {
+            "title": "TIGR 订阅档位对照清单",
+            "keywords": "TIGR,TIGR订阅,TIGR档位,基础版,旗舰版,团队版,流量额度,设备数量,按年付",
+            "description": "TIGR 把办理顺序写成清单：先核名称，再对三档价格与额度，最后才谈客户端。没有核验过的下载地址不写进页面。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "1517",
+            "hero": "6 纵向时间线引入",
+            "palette": "8 酒红配象牙白",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "minzhongrc.cn",
+    "host": "p-b5f111c7be.minzhongrc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "b1f80cc9fdcc7e85c3b3cb8db5151ceb3fe897adf5213e0a22668158e693d34e",
+    "sitemap.xml": "270f4ed4357e4660b15a71ae88400d3393822e1882b28dd4d22100b5636f0fb5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d20ad722581833f9369ca2a486bd86c4d0935f810d4ffecb853b0fd059818964",
+    "robots.txt": "83cbbf87beccb302eb303d9dbbe7a871eb08be18129499d101a0f6ef091310fb",
+    "80155b39e0fe1eed14fbdc83aff91371.txt": "4f98b77a7a6b80cc3ce6f5634fc76b4e71a53eabaab0b7964626c57951a0b7da"
+  },
+  "revision": "500bd10ca3fe6feb6a84ff7ddbaf82f493225bafcf6a7e59d231fac0bc3d3c9f"
+}
